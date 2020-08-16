@@ -28,3 +28,4 @@ Coloque seu nome e LinkedIn na lista com o seguinte formato:
 | Perfil | Especialidade | 
 | -- | -- | 
 | [Leonardo A. de Souza](https://www.linkedin.com/in/lsouza42/) | back-end | 
+| [Ewerton de O. Martins](https://www.linkedin.com/in/ewertonmoliveira) | front-end |
